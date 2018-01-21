@@ -1,0 +1,48 @@
+html, body{
+	font-family: arial; 
+	margin: 0; 
+}
+
+header{
+	background-color: #4286f4;
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 45px;
+	color: white;
+}
+
+header img{
+	border-radius: 800px;
+	width: 300px;
+	max-width: 100%;
+	border: 5px solid #000000
+}
+
+.content{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px 20px;
+	text-align: justify;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+ul{
+	list-style: none
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+	text-align: center
+}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Brandon Davis</h1>
+	</header>*/
